@@ -1,0 +1,154 @@
+body {
+    text-align: center;
+   background-image: url('background.jpg');
+    baclk
+  }
+  #title{
+    color: #862B0D;
+  }
+.set{
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 150px;
+
+}
+
+.btn{
+    outline:none;
+    border-color: white;
+    background-color: white;
+    box-sizing: border-box;
+    height: 200px;
+    width: 30px;
+    color: white;
+}
+.black{
+    height:100px;
+    width: 20px;
+    background-color: black;
+
+}
+.a1{
+    position: relative;
+    right: 15px;
+    bottom: 50px;
+}
+.b{
+    position: relative;
+    right: 30px;
+    z-index: -1;
+}
+.a2{
+ 
+        position: relative;
+        right: 45px;
+        bottom: 50px;
+    
+}
+.c{
+    position: relative;
+    right:57px;
+    z-index: -1;
+}
+.d{
+    position: relative;
+    right: 60px;
+    z-index: -1;
+}
+.a3{
+    position: relative;
+    right: 77px;
+    bottom: 50px;
+}
+.e{
+    position: relative;
+    right:87px;
+    z-index:-1;
+}
+.a4{
+    position: relative;
+    right: 100px;
+    bottom: 50px;
+}
+.f{
+    position: relative;
+    right: 115px;
+    z-index: -1;
+}
+.a5{
+    position: relative;
+    right: 125px;
+    bottom: 50px;
+    
+}
+.g{
+    position: relative;
+    right: 142px;
+    z-index: -1;
+}
+.h{
+    position: relative;
+    right: 145px;
+    z-index: -1;
+}
+.a6{
+    position: relative;
+    right: 160px;
+    bottom: 50px;
+}
+.i{
+    position: relative;
+    right: 173px;
+    z-index: -1;
+}
+.a7{
+    position: relative;
+    right: 187px;
+    bottom: 50px;
+}
+.j{
+    position: relative;
+    right: 200px;
+    z-index: -1;
+}
+.k{
+    position: relative;
+    right: 203px;
+    z-index: -1;
+}
+.a8{
+    position: relative;
+    right: 220px;
+    bottom: 50px;
+}
+.l{
+    position: relative;
+    right: 231px;
+    z-index: -1;
+}
+.a9{
+    position: relative;
+    right: 247px;
+    bottom: 50px;
+}
+.m{
+    position: relative;
+    right: 259px;
+    z-index: -1;
+}
+.a10
+{
+    position: relative;
+    right: 270px;
+    bottom: 50px;
+}
+.n{
+    position: relative;
+    right: 287px;
+    z-index: -1;
+}
+.pressed{
+    box-shadow: 0 4px 4px 0 #b5b4b6;
+    opacity: 0.5;
+}
